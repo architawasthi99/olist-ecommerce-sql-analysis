@@ -1,7 +1,7 @@
 # 🛒 Olist E-Commerce SQL Analysis
 
 ![SQL](https://img.shields.io/badge/SQL-Analysis-blue)
-![SQLite](https://img.shields.io/badge/Database-SQLite-orange)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Dataset](https://img.shields.io/badge/Dataset-Olist-green)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
